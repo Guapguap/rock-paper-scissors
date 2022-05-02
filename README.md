@@ -1,2 +1,2 @@
 # mini-prject-2
-group mini project JavaScript
+Very basic use of JavaScript for user input.
