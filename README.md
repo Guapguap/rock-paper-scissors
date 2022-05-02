@@ -1,2 +1,2 @@
-# rock-paper-scissors
-Rock, Paper, Scissors Project
+# mini-prject-2
+group mini project JavaScript
